@@ -1,4 +1,4 @@
-# 🤖 Simple AI Chatbot
+# 🤖 Simple AI Chatbot 
 
 This is a basic AI chatbot built using Python, Scikit-learn, and natural language processing techniques. The bot uses intent classification to provide responses to user queries based on predefined patterns.
 
